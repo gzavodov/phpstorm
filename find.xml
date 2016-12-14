@@ -21,7 +21,6 @@
       <mask>*.*</mask>
       <mask>*.*</mask>
       <mask>*.*</mask>
-      <mask>*.*</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
@@ -31,6 +30,7 @@
       <mask>*.php</mask>
       <mask>*.оы</mask>
       <mask>*.js</mask>
+      <mask>*.*</mask>
       <mask>*.*</mask>
       <mask>*.*</mask>
       <mask>*.*</mask>

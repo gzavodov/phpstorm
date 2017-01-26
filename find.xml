@@ -3,9 +3,7 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="Directory 'F:\_repository\Siteman\modules\crm\lib\color'" />
     <option name="defaultScopeName" value="Directory 'F:\_repository\Siteman\modules\crm\lib\color'" />
-    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Directory 'F:\_repository\Siteman\modules\crm\lib\color'" />
     <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
@@ -20,7 +18,6 @@
       <mask>*.php</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
-      <mask>*.*</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
       <mask>*.*</mask>
@@ -34,6 +31,7 @@
       <mask>*.php</mask>
       <mask>*.*</mask>
       <mask>*.php</mask>
+      <mask>*.*</mask>
       <mask>*.*</mask>
       <mask>*.*</mask>
       <mask>*.*</mask>

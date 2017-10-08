@@ -1,22 +1,17 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'F:\_repository\Siteman\modules\crm\lib\color'" />
-    <option name="defaultScopeName" value="Directory 'F:\_repository\Siteman\modules\crm\lib\color'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'F:\_repository\Siteman\modules\crm\lib\color'" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.css" />
     <recentFileMasks>
-      <mask>*.css</mask>
-      <mask>*.php,*.js</mask>
       <mask>*.оы</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
       <mask>*.js</mask>
-      <mask>*.php</mask>
-      <mask>*.php</mask>
       <mask>*.*</mask>
-      <mask>*.php</mask>
       <mask>*.*</mask>
       <mask>*.*</mask>
       <mask>*.*</mask>
@@ -37,6 +32,11 @@
       <mask>*.php</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
+      <mask>*.php</mask>
+      <mask>*.php</mask>
+      <mask>*.php</mask>
+      <mask>*.cs</mask>
+      <mask>*.css</mask>
     </recentFileMasks>
   </component>
 </application>

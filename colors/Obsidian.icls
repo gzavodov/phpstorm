@@ -1,12 +1,12 @@
 <scheme name="Obsidian" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="2.4166667" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Ubuntu" />
-    <option name="EDITOR_FONT_SIZE" value="30" />
+    <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
+    <option name="EDITOR_FONT_SIZE" value="25" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="FreeMono" />
-    <option name="EDITOR_FONT_SIZE" value="35" />
+    <option name="EDITOR_FONT_SIZE" value="30" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />

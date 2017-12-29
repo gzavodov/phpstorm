@@ -77,6 +77,11 @@
         <option name="FOREGROUND" value="93c763" />
       </value>
     </option>
+    <option name="CONSOLE_GREEN_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="77b89c" />
+      </value>
+    </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />

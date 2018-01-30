@@ -1,13 +1,4 @@
 <scheme name="Obsidian" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="2.4166667" />
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Liberation Mono" />
-    <option name="EDITOR_FONT_SIZE" value="34" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="FreeMono" />
-    <option name="EDITOR_FONT_SIZE" value="34" />
-  </console-font>
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
   <colors>
     <option name="ANNOTATIONS_COLOR" value="ffffff" />

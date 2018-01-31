@@ -9,7 +9,6 @@
       <mask>*.*</mask>
       <mask>*.*</mask>
       <mask>*.*</mask>
-      <mask>*.php</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.c</mask>
@@ -27,10 +26,11 @@
       <mask>*.php</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
+      <mask>*.js</mask>
+      <mask>*.js</mask>
       <mask>*.php</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
-      <mask>*.js</mask>
+      <mask>*.php</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
       <mask>*.php</mask>
